@@ -4,7 +4,7 @@
 
 Este repositorio contiene la solución al Proyecto RStudio individual de la asignatura de Teoría de la Decisión, enfocado en la aplicación de métodos de decisión bajo incertidumbre.
 
-[cite_start]El proyecto consta de la resolución de dos problemas inventados, siguiendo las pautas de las instrucciones[cite: 44, 45, 47, 48].
+El proyecto consta de la resolución de dos problemas inventados, siguiendo las pautas de las instrucciones.
 
 ### Contenido
 
