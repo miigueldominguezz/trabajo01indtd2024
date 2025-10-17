@@ -16,7 +16,7 @@ El proyecto consta de la resolución de dos problemas inventados, siguiendo las 
 
 ### Metodología
 
-1.  **Problema 1 (Inversión en Energía Solar):** Resuelto utilizando funciones individuales para cada criterio (`criterio.Wald`, `criterio.Optimista`, `criterio.Savage`, etc.) en escenarios **favorable (beneficios)** y **desfavorable (costes)**[cite: 47].
+1.  **Problema 1 (Inversión en Energía Solar):** Resuelto utilizando funciones individuales para cada criterio (`criterio.Wald`, `criterio.Optimista`, `criterio.Savage`, etc.) en escenarios **favorable (beneficios)** y **desfavorable (costes)**.
 2.  **Problema 2 (Lanzamiento de Software):** Resuelto utilizando la función consolidada `criterio.Todos()` para obtener una única tabla de resultados y determinar la decisión por consenso.
 
 
