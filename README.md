@@ -16,8 +16,7 @@ Este repositorio contiene la solución al Proyecto RStudio individual de la asig
 
 ### Metodología
 
-1.  [cite_start]**Problema 1 (Inversión en Energía Solar):** Resuelto utilizando funciones individuales para cada criterio (`criterio.Wald`, `criterio.Optimista`, `criterio.Savage`, etc.) en escenarios **favorable (beneficios)** y **desfavorable (costes)**[cite: 47].
-2.  [cite_start]**Problema 2 (Lanzamiento de Software):** Resuelto utilizando la función consolidada `criterio.Todos()` para obtener una única tabla de resultados y determinar la decisión por consenso[cite: 48].
+1.  **Problema 1 (Inversión en Energía Solar):** Resuelto utilizando funciones individuales para cada criterio (`criterio.Wald`, `criterio.Optimista`, `criterio.Savage`, etc.) en escenarios **favorable (beneficios)** y **desfavorable (costes)**[cite: 47].
+2.  **Problema 2 (Lanzamiento de Software):** Resuelto utilizando la función consolidada `criterio.Todos()` para obtener una única tabla de resultados y determinar la decisión por consenso.
 
----
-*Este repositorio ha sido creado para el proyecto de la asignatura. El nombre sigue el formato requerido: `usuariogithub/trabajo0lindtd2024`[cite: 51].*
+
